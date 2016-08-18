@@ -1,0 +1,17 @@
+{
+    "name": "bigshotone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Gesine Todt"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/bigshotone-bower.git"
+    },
+    "description": "Bigshot One font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
